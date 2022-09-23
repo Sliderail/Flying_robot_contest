@@ -1,1 +1,0 @@
-# Flying_robot_contest
